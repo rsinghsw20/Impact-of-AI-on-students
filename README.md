@@ -20,7 +20,7 @@ retention, study habits, anxiety levels, and overall dependency on AI tools.
 ## Key Findings
 
 ### 1. GenAI Hours vs Traditional Study Hours
-![chart](outputs/figures/genai_vs_study_hours.png)
+![chart](output/figures/genai_vs_study_hours.png)
 
 I expected that students relying more on AI would show a noticeably lower amount 
 of traditional study time. The data does show this pattern, but it's weaker than 
@@ -28,7 +28,7 @@ expected — there's only a slight tendency for heavier GenAI users to study les
 in the traditional sense (correlation: -0.157).
 
 ### 2. GenAI Hours vs Anxiety
-![chart](outputs/figures/genai_vs_anxiety.png)
+![chart](output/figures/genai_vs_anxiety.png)
 
 Interestingly, higher GenAI usage is associated with a mild *increase* in exam 
 anxiety rather than a decrease. Students who rely more heavily on GenAI tools 
@@ -36,7 +36,7 @@ tend to experience somewhat higher anxiety during exams, though the effect is
 not strong (correlation: +0.269).
 
 ### 3. AI Dependency vs Skill Retention
-![chart](outputs/figures/retention_vs_dependency.png)
+![chart](output/figures/retention_vs_dependency.png)
 
 I expected that heavier AI reliance would clearly reduce skill retention. 
 However, the data shows only a very weak relationship (correlation: -0.084) — 
@@ -44,7 +44,7 @@ perceived AI dependency doesn't strongly predict how well students retain skills
 in this dataset.
 
 ### 4. Distribution of AI Dependency
-![chart](outputs/figures/ai_dependency_distribution.png)
+![chart](output/figures/ai_dependency_distribution.png)
 
 AI is clearly playing a major role in education — students are using it to 
 write code, complete assignments, and build projects. But most students don't 
